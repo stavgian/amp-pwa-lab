@@ -8,7 +8,7 @@
     "start": "http-server -p 8081 -a localhost -c 0",
     "build": "workbox injectManifest workbox-config.js"
   },
-  "author": "",
+  "author": "Yiannis Stavgianoudakis",
   "license": "ISC",
   "devDependencies": {
     "http-server": "0.10.0",
